@@ -1,0 +1,10 @@
+.paragraph{
+    width: 60%;
+    color: #99430A;
+}
+
+@media screen and (max-width: 769px){
+    .paragraph {
+        width: 90%;
+    }
+}
